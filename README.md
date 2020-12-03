@@ -1,1 +1,1 @@
-# Vezba u ASP.Net MVC, CRUD operacija 
+# Vezba u ASP.Net Core MVC, CRUD operacija (Entity framework core)
